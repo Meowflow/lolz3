@@ -1,0 +1,13 @@
+-- this is pretend code alright ignore this entire code thingy
+
+-- Import
+import Custom.LolZ3
+
+-- Check for Air Z
+
+if Air Z.exe open -- if Air Z.exe open or window type open, continue
+Application.Continue();
+else
+Application.Quit();
+
+-- XD
